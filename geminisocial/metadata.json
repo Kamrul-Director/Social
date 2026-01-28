@@ -1,0 +1,7 @@
+{
+  "name": "GeminiSocial",
+  "description": "A modern, AI-powered social media platform featuring smart post generation, real-time voice interactions with AI friends, and a sleek Facebook-inspired interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
